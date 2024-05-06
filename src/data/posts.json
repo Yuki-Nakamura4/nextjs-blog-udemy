@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Nxt.js13をUdemyで学ぶ",
+      "content": "shincodeさんの教材をNext.js13で学んでいます。",
+      "createdAt": "2022/07/14"
+    },
+    {
+      "id": "json-server",
+      "title": "JSONサーバー",
+      "content": "About Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+      "createdAt": "2022/07/16"
+    },
+    {
+      "id": "test-data",
+      "title": "Test",
+      "content": "This is a test. This is a test. This is a test. This is a test. This is a test.This is a test. This is a test. This is a test. This is a test. This is a test. This is a test. This is a test. This is a test. This is a test. This is a test.This is a test. This is a test. This is a test. This is a test. This is a test.",
+      "createdAt": "2022/07/16"
+    },
+    {
+      "id": "a",
+      "title": "aaa",
+      "content": "aaaaa",
+      "createdAt": "2024-05-04T15:46:41.391Z"
+    }
+  ]
+}
